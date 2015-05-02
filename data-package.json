@@ -204,5 +204,5 @@
             }
         }
     },
-    "required": ["name", "resources"]
+    "required": ["name"]
 }
